@@ -1,0 +1,44 @@
+body
+{
+    background-color: gray;
+    color: white;
+}
+
+h1
+{
+    text-align: center;
+}
+
+#balkep
+{
+    width: 150px;
+    float: left;
+    box-shadow: 5px 10px #1D1D4E;
+}
+
+#jobbkep
+{
+    width: 250px;
+    float: right;
+    box-shadow: 5px 10px #1D1D4E;
+}
+
+table
+{
+    box-shadow: 5px 10px #1D1D4E;
+    border: 1px solid #1D1D4E;
+}
+
+.fejsor
+{
+    background-color: #1D1D4E;
+    text-align: center;
+    border-collapse: collapse;
+    font-family: cursive;
+}
+
+.forras
+{
+    text-align: center;
+    font-style: italic;
+}
